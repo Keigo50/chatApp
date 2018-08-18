@@ -5,8 +5,8 @@
   "main": ".tmp/main/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch":"babel --watch --out-dir .tmp src",
-    "start":"electron ."
+    "watch": "babel --watch --out-dir .tmp src",
+    "start": "electron ."
   },
   "author": "",
   "license": "ISC",
